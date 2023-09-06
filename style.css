@@ -1,0 +1,350 @@
+.main
+{
+    height: 70vh;
+    width: 100%;
+    /* background-color: rgb(75, 75, 199); */
+    background: rgb(90,73,204);
+background: linear-gradient(0deg, rgba(90,73,204,1) 25%, rgba(6,38,116,0.9640231092436975) 81%);
+}
+body
+{
+    overflow-x: hidden;
+}
+.btn
+{
+    border: none;
+    background-color: transparent;
+    transform: translate(250px,-20px);
+    margin: 20px;
+    color: white;
+    font-size: 16px;
+    
+}
+.vain
+{
+    height: 20px;
+    width: 120px;
+    padding-top: 20px;
+}
+.btn8
+{
+    background-color: rgb(212, 124, 8);
+    border-radius: 10px;
+    color: black;
+    height: 40px;
+    width: 120px;
+    margin-top: 20px;
+}
+
+.btn8:hover
+{
+    color: rgb(241, 241, 241);
+    background-color: rgb(104, 240, 104);
+    transition-duration: 2s;
+}
+
+i
+{
+    transform: translate(300px,-20px);
+  
+}
+
+.btn:hover
+{
+    color: rgb(255, 166, 0);
+    /* transition-duration: 1s; */
+}
+.mm
+{
+    color: rgb(238, 159, 0);
+    transform: translate(60px);
+    font-size: 50px;
+}
+h2
+{
+    color: white;
+    transform: translate(60px,-20px);
+}
+p
+{
+    color: white;
+    transform: translate(60px,-20px);
+    font-size: 20px;
+}
+.abc
+{
+    font-size: 100px;
+    transform: translate(900px,-250px);
+    color: white;   
+}
+.hero
+{
+    height: 80vh;
+    width: 100%;
+    background-color: rgb(173, 205, 211);
+    display: flex;
+    justify-content: space-evenly;
+}
+.qq
+{
+    height: 70vh;
+    width: 30%;
+    margin-top: 30px;
+    background-color: rgb(232, 255, 255);
+    background-image: url(Google-Docs.png);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    
+    
+}
+.qm
+{
+    height: 70vh;
+    width: 30%;
+    margin-top: 30px;
+    background-color: rgb(255, 255, 255);
+    background-image: url(Google-Drive.png);
+    background-repeat: no-repeat;
+    background-position-x: center;
+
+}
+.qn
+{
+    height: 70vh;
+    width: 30%;
+    margin-top: 30px;
+    background-color: rgb(255, 255, 255);
+    background-image: url(Gmail.png);
+    background-repeat: no-repeat;
+    background-position-x: center;
+}    
+.qq p
+{
+    color: black;
+    transform: translate(-1px);
+    padding-top: 70px;
+    text-align: center;
+}
+.qq h2
+{
+    color: rgb(13, 75, 145);
+    transform: translate(70px,60px);
+}
+.qq .vv
+{
+    background-color: rgb(51, 51, 201);
+    border: none;
+    height: 40px;
+    width: 130px;
+    color: white;
+    background: rgb(90,73,204);
+    background: linear-gradient(0deg, rgba(90,73,204,1) 25%, rgba(6,38,116,0.9640231092436975) 81%);
+    background-position-x: center;
+    transform: translate(130px,20px);
+    border-radius: 5px;
+}
+.mmm
+{
+    height: 15vh;
+    width: 100%;
+    background-color: aliceblue;
+}
+.qm h2
+{
+    color: rgb(13, 75, 145);
+    transform: translate(70px,60px);
+}
+.qm p
+{
+    color: black;
+    transform: translate(-1px);
+    padding-top: 70px;
+    text-align: center;
+}
+.qm .v1
+{
+    background-color: rgb(51, 51, 201);
+    border: none;
+    height: 40px;
+    width: 130px;
+    color: white;
+    border-radius: 5px;
+    background: rgb(90,73,204);
+    background: linear-gradient(0deg, rgba(90,73,204,1) 25%, rgba(6,38,116,0.9640231092436975) 81%);
+    background-position-x: center;
+    transform: translate(130px,20px);
+}
+.qn h2
+{
+    color: rgb(13, 75, 145);
+    transform: translate(110px,60px);
+}
+.qn p
+{
+    color: black;
+    transform: translate(-1px);
+    padding-top: 70px;
+    text-align: center;
+}
+.qn .v2
+{
+    background-color: rgb(51, 51, 201);
+    border: none;
+    height: 40px;
+    width: 130px;
+    color: white;
+    background: rgb(90,73,204);
+    background: linear-gradient(0deg, rgba(90,73,204,1) 25%, rgba(6,38,116,0.9640231092436975) 81%);
+    background-position-x: center;
+    transform: translate(130px,20px);
+    border-radius: 5px;
+}
+.logo
+{
+    height: 40vh;
+    width: 100%;
+    background-color: rgb(245, 255, 252);
+    background-image: url(Capture.PNG);
+    background-repeat: no-repeat;
+    transform: translate(250px,0px) ;
+    
+}
+.logo h1
+{
+    color: rgb(51, 51, 104);
+    font-size: 40px;
+    transform: translate(250px,0px) ;
+}
+.logo p
+{
+    color: rgb(51, 51, 104);
+    font-size: 20px;
+    transform: translate(250px,0px) ;
+
+}
+.logo .btno
+{
+    color: rgb(230, 230, 240);
+    font-size: 20px;
+    transform: translate(250px,0px) ;
+    background: rgb(90,73,204);
+    height: 40px;
+    border-radius: 5px;
+    background: linear-gradient(0deg, rgba(90,73,204,1) 25%, rgba(6,38,116,0.9640231092436975) 81%);
+}
+.goog
+{
+    height: 120vh;
+    width: 100%;
+    background: rgb(90,73,204);
+    background: linear-gradient(0deg, rgba(90,73,204,1) 25%, rgba(6,38,116,0.9640231092436975) 81%);
+}
+.goog h2
+{
+    color: rgb(243, 150, 9);
+    transform: translate(80px,40px);
+}
+.goog h1
+{
+    color: white;
+    transform: translate(80px,25px);
+    font-size: 50px;
+
+}
+.goog p
+{
+    transform: translate(80px,10px);
+}
+.dv
+{
+    height: 600px;
+    width: 350px;
+    background-color: rgb(28, 98, 190);
+    text-align: center;
+    transform: translate(900px,-100px);
+}
+.dv .pl
+{
+    color: black;
+    transform: translate(10px);
+}
+.dv .pl1
+{
+    color: black;
+    transform: translate(10px);
+}
+.dv h5
+{
+    font-size: 20px;
+}
+input
+{
+    border-radius: 5px;
+    border: none;
+}
+.red
+{
+    height: 40px;
+    width: 90px;
+    background-color: rgb(238, 158, 0);
+}
+.time
+{
+    height: 15vh;
+    width: 100%;
+    background-color: aliceblue;
+}
+.sty
+{
+    height: 55vh;
+    width: 100%;
+    background: rgb(90,73,204);
+    background: linear-gradient(0deg, rgba(90,73,204,1) 25%, rgba(6,38,116,0.9640231092436975) 81%);
+
+}
+.edit
+{
+    height: 100px;
+    width: 120px;
+    transform: translate(100px,80px);
+}
+.phn
+{
+    height: 30px;
+    width: 30px;
+}
+.sal
+{
+    height: 30px;
+    width: 30px;
+    transform: translate(40px,-25px);
+}
+.product
+{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    transform: translate(50px,-165px);
+    color: rgb(218, 112, 13);
+    margin-left: 50px;
+
+}
+ul
+{
+    margin: 70px;
+    color: white;
+}
+li
+{
+    color: rgb(224, 128, 1);
+    width: 100%;
+}
+.live
+{
+    transform: translate(-950px, 250px);
+    width: 700%;
+}
+.color
+{
+    color: rgb(207, 118, 2);
+}
